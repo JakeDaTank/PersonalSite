@@ -1,0 +1,14 @@
+*{
+  font-family: fantasy;
+  color: white;
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+div.thumbnail{
+  background-color: rgb(64, 65, 68);
+  border-color: rgb(64, 65, 68);
+}
